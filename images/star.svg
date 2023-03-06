@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="94.411743mm"
+   height="91.385399mm"
+   viewBox="0 0 94.411743 91.385399"
+   version="1.1"
+   id="svg1694"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="star.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1696"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71624579"
+     inkscape:cx="2.7923375"
+     inkscape:cy="541.0154"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1691" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.55108,-6.1961253)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffd8ad;stroke:#ffd8ad;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path2595"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="67.970146"
+       sodipodi:cy="55.77985"
+       sodipodi:r1="48.650524"
+       sodipodi:r2="24.325262"
+       sodipodi:arg1="-0.26179939"
+       sodipodi:arg2="0.36651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 114.96294,43.188168 90.679735,64.497244 94.467121,96.581613 66.69706,80.071775 37.353379,93.588408 44.473747,62.075691 22.550969,38.345062 54.721659,35.378969 70.516318,7.1959997 83.27853,36.875571 Z"
+       inkscape:transform-center-x="-0.78680951"
+       inkscape:transform-center-y="-3.8910447" />
+  </g>
+</svg>

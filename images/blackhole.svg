@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.719292mm"
+   height="62.587376mm"
+   viewBox="0 0 63.719292 62.587376"
+   version="1.1"
+   id="svg736"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="blackhole.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview738"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71624579"
+     inkscape:cx="79.581619"
+     inkscape:cy="216.40616"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs733" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-63.086084,-91.152077)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#ffd8ad;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="path910"
+       sodipodi:cx="91.981346"
+       sodipodi:cy="123.01119"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="35.757748"
+       sodipodi:argument="-17.858166"
+       sodipodi:t0="0"
+       d="m 91.981346,123.01119 c 0.981627,1.50023 -1.537972,2.06337 -2.493471,1.63153 -2.589343,-1.17027 -2.299102,-4.73946 -0.769585,-6.61847 2.735947,-3.3611 7.888144,-2.74525 10.743469,0.0924 4.190301,4.1643 3.214451,11.08309 -0.954301,14.86847 -5.556286,5.04531 -14.294931,3.69406 -18.993467,-1.81625 -5.912628,-6.93416 -4.179183,-17.51493 2.678187,-23.11846 8.305195,-6.78663 20.739552,-4.66752 27.243462,3.54013 7.66463,9.67242 5.15787,23.96706 -4.40207,31.36846 -11.037329,8.54521 -27.196497,5.64957 -35.493463,-5.26402 -9.427541,-12.4007 -6.142204,-30.42728 6.125959,-39.618458 13.763025,-10.311117 33.659044,-6.635526 43.743464,6.987898 11.19561,15.12459 7.12936,36.89156 -7.84985,47.86846" />
+  </g>
+</svg>

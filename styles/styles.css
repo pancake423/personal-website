@@ -1,0 +1,87 @@
+:root {
+	--color-main-1: #2A0C4E;
+	--color-main-2: #51355A;
+	--color-accent-1: #9E2B25;
+	--color-accent-2: #D04039;
+	--color-bg-1: #FFEBD6;
+	--color-bg-2: #FFF5EB;
+}
+body {
+	margin: 0;
+	background-color: var(--color-bg-2);
+}
+@font-face {
+	font-family: "PT Sans";
+	src: url("../fonts/PT_Sans/PTSans-Regular.ttf");
+}
+@font-face {
+	font-family: "Shantell Sans";
+	src: url("../fonts/Shantell_Sans/ShantellSans-VariableFont_BNCE,INFM,SPAC,wght.ttf");
+}
+#navbar {
+	width: 90vw;
+	margin-left: 4vw;
+	height: 5vw;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	user-select: none;
+	padding-left: 1vw;
+	padding-right: 1vw;
+	z-index: 100;
+}
+#logo {
+	height: 4em;
+	width: auto;
+	transform: rotate(90deg);
+	margin-left: 2em;
+	margin-right: 2em;
+}
+#logo-container {
+	background-color: var(--color-main-2);
+	border-radius: 1em;
+}
+#name {
+	text-align: center;
+	height: 100%;
+	width: 10em;
+	font-family: Shantell Sans;
+	font-size: 2em;
+	color: var(--color-main-1);
+}
+#starry-bg {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	user-select: none;
+	z-index: -100;
+}
+.sub-navbar {
+	display: flex;
+	align-items: center;
+	opacity: 1;
+}
+.navbar-item {
+	text-align: center;
+	width: 8em;
+	height: 100%;
+	font-family: PT Sans;
+	font-size: 1.25em;
+	transition-duration: 0.25s;
+	color: var(--color-main-1);
+}
+.navbar-item:hover {
+	cursor: pointer;
+	color: var(--color-accent-2);
+}
+#navbar-bg {
+	height: 5vw;
+	width: 100vw;
+	position: absolute;
+	background-color: var(--color-bg-1);
+	opacity: 0.5;
+	z-index: -100;
+}

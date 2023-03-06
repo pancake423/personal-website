@@ -1,2 +1,24 @@
-<head></head>
-<body></body>
+<head>
+	<link rel="stylesheet" href = "styles/styles.css">
+	<script src="scripts/star-bg-generator.js"></script>
+	<script src="scripts/helper.js"></script>
+</head>
+<body>
+	<div id="starry-bg"></div>
+	<div id="navbar-bg"></div>
+	<div id="navbar">
+		<div class = "sub-navbar">
+			<div id="logo-container">
+				<img id = "logo" src="images/rocketLogo.svg">
+			</div>
+			<p id = "name">William Jackson</p>
+		</div>
+		<div class = "sub-navbar">
+			<p id = "about" class = "navbar-item" onclick="redirect('index.html')">about</p>
+			<p id = "projects" class = "navbar-item" onclick="redirect('projects.html')">projects</p>
+			<p id = "eSports" class = "navbar-item" onclick="redirect('eSports.html')">eSports</p>
+			<p id = "resume" class = "navbar-item" onclick="redirect('resume.html')">resume</p>
+			<p id = "contact" class = "navbar-item" onclick="redirect('contact.html')">contact</p>
+		</div>
+	</div>
+</body>
