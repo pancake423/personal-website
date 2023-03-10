@@ -8,3 +8,6 @@ window.onload = function init() {
 	generateBackground()
 	window.onresize = generateBackground;
 }
+onscroll = function(e) {
+	document.getElementById("starry-bg").style.marginTop = (window.scrollY / (document.body.scrollHeight - document.body.clientHeight) * -25) + "vh";
+}

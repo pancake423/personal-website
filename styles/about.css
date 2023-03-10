@@ -1,0 +1,134 @@
+.blurb {
+	background-color: white;
+	box-sizing: border-box;
+	border-radius: 1rem 4rem 1rem 4rem;
+	position: absolute;
+	box-shadow: 1px 1px 5px var(--color-main-2);
+	transition-duration: 0.2s;
+}
+.blurb-header {
+	font-family: Shantell Sans;
+	color: var(--color-main-1);
+	text-align: center;
+	font-size: 3em;
+	position: absolute;
+	margin: 0;
+}
+.blurb-subheader {
+	font-family: PT Sans;
+	color: var(--color-main-1);
+	text-align: center;
+	font-size: 1.5em;
+	position: absolute;
+	margin: 0;
+}
+.blurb-text {
+	font-family: PT Sans;
+	color: var(--color-main-2);
+	font-size: 1.1em;
+	position: absolute;
+	margin: 0;
+}
+.blurb-image {
+	position: absolute;
+}
+#page-body {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 10vw;
+	padding-top: calc(2em + 5vw);
+	position: absolute;
+	user-select: none;
+	height: 100vw;
+}
+#portrait {
+	width: 25vw;
+	height: 35vw;
+	left: 25vw;
+	top: 7vw;
+}
+#p1 {
+	width: 20vw;
+	height: auto;
+	left: 2.5vw;
+	top: 3vw;
+}
+#bio {
+	width: 23vw;
+	height: 25vw;
+	left: 52vw;
+	top: 7vw;
+}
+#b1 {
+	width: 100%;
+	top: 2vw;
+}
+#b2 {
+	width: 100%;
+	top: 6vw;
+}
+#b3 {
+	width: 19vw;
+	left: 2vw;
+	top: 9vw;
+}
+#skills-header {
+	width: 23vw;
+	height: 8vw;
+	left: 52vw;
+	top: 34vw;
+}
+#s1 {
+	width: 100%;
+	top: 2vw;
+}
+#languages {
+	width: 50vw;
+	left: 25vw;
+	top: 44vw;
+	height: 5vw;
+}
+#l1 {
+	width: 100%;
+	top: 1.5vw;
+}
+#frameworks {
+	width: 24vw;
+	left: 25vw;
+	top: 51vw;
+	height: 22vw;
+}
+#f1 {
+	width: 100%;
+	top: 2vw;
+}
+#f2 {
+	width: 20vw;
+	left: 5vw;
+	top: 8vw;
+}
+#interests {
+	width: 24vw;
+	left: 51vw;
+	top: 51vw;
+	height: 30vw;
+}
+#i1 {
+	width: 100%;
+	top: 2vw;
+}
+#i2 {
+	width: 20vw;
+	left: 5vw;
+	top: 8vw;
+}
+#hobbies-header {
+	width: 24vw;
+	left: 25vw;
+	top: 75vw;
+	height: 8vw;
+}
+#h1 {
+	width: 100%;
+	top: 2vw;
+}

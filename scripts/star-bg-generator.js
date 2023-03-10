@@ -50,13 +50,13 @@ function generateBackground() {
 	//and place a shape randomly within each grid square.
 	
 	//figure out a step size where NUM_SHAPES square tiles are evenly distributed in the window.
-	const ratio = window.innerWidth / window.innerHeight;
+	const ratio = window.innerWidth / (window.innerHeight*1.25);
 	const l = Math.sqrt(NUM_SHAPES / ratio)
-	const step = Math.floor(window.innerHeight / l);
+	const step = Math.floor((window.innerHeight*1.25) / l);
 
 	//use that step size to iterate over the entire window.
 	for (let x = 0; x < window.innerWidth; x += step) {
-		for (let y = 0; y < window.innerHeight; y += step) {
+		for (let y = 0; y < (window.innerHeight*1.25); y += step) {
 			addRandomShape(document.getElementById("starry-bg"), x, y, step / 2);
 		}
 	}
